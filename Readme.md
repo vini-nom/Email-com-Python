@@ -1,4 +1,4 @@
-#Envio de E-mail com Python:
+# Envio de E-mail com Python: 
 
 
 Este projeto é para aprendizagem do envio de e-mails usando Python. Logo ele utiliza a seguinte biblioteca que possibilita o funcionamento da aplicação:
